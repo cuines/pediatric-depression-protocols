@@ -47,6 +47,7 @@ Discussing screening results with parents/guardians can be challenging. Below ar
 
 ### Explaining the Results
 - “The score ranges from 0 to 27, with higher numbers indicating more severe symptoms. [Adolescent’s] score of [X] falls in the [mild/moderate/severe] range, which means they could benefit from additional support.”
+- “It’s important to remember that this screen is a snapshot of how [adolescent] has been feeling over the past two weeks, not a formal diagnosis. It helps us identify areas where extra support might be helpful.”
 
 ### Addressing Safety
 - “We also talked about safety, and [adolescent] reported [no current thoughts of self‑harm / some thoughts but no plan or intent]. It’s important to create a safe environment at home and to let us know if any concerning behaviors emerge.”
@@ -83,6 +84,6 @@ This protocol will be reviewed annually by the Pediatric Mental Health Team. Upd
 ---
 
 ## Version History
-- **2.1 (2025‑12‑30):** Updated parent communication language; added documentation note for safety assessment; minor editorial improvements.
+- **2.1 (2025‑12‑30):** Updated parent communication language; added documentation note for safety assessment; clarified that screening is a snapshot, not a diagnosis; minor editorial improvements.
 - **2.0 (2025‑12‑30):** Clarified positive‑screen workflow; added parent communication guide; updated referral list; added alternative screening tools; version numbering aligned with clinic standard.
 - **1.0 (2024‑01‑15):** Initial protocol adopted.
