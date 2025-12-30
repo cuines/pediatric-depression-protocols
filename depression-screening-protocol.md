@@ -1,5 +1,5 @@
 # Adolescent Depression Screening Protocol
-**Version:** 2.0  
+**Version:** 2.1  
 **Last Updated:** 2025-12-30  
 **Responsible Clinic:** Pediatric Mental Health Team
 
@@ -30,7 +30,7 @@ A total score **≥10** (moderate or higher) is considered a positive screen and
 
 ### Immediate Provider Actions
 1. **Review results with adolescent:** Discuss the score in a supportive, non‑judgmental manner. Validate their feelings and acknowledge the courage it took to complete the screen.
-2. **Conduct safety assessment:** Ask directly about suicidal ideation, intent, plan, and access to means. Use the C‑SSRS questions if available. If acute risk is identified, follow the clinic’s Suicide Risk Protocol (see separate document) and do not leave the patient unattended.
+2. **Conduct safety assessment:** Ask directly about suicidal ideation, intent, plan, and access to means. Use the C‑SSRS questions if available. If acute risk is identified, follow the clinic’s Suicide Risk Protocol (see separate document) and do not leave the patient unattended. Document presence or absence of suicidal ideation in the patient’s chart.
 3. **Engage parent/guardian (if appropriate):** With the adolescent’s consent, involve the parent/guardian in the discussion. Use the parent communication guide (below) to frame the conversation.
 4. **Document findings:** Record the PHQ‑9A score, safety assessment, clinical impressions, and any immediate interventions in the patient’s chart.
 
@@ -43,7 +43,7 @@ A total score **≥10** (moderate or higher) is considered a positive screen and
 Discussing screening results with parents/guardians can be challenging. Below are suggested talking points:
 
 ### Opening the Conversation
-- “Today we completed a routine depression screen as part of [adolescent’s] visit. The results suggest they are experiencing some symptoms of depression. I want to assure you that this is relatively common, and we have good resources to help.”
+- “Today we completed a routine depression screen as part of [adolescent’s] visit. The results suggest they are experiencing some symptoms of depression. I want you to know that depression is a common and treatable condition in adolescents, and we have good resources to help.”
 
 ### Explaining the Results
 - “The score ranges from 0 to 27, with higher numbers indicating more severe symptoms. [Adolescent’s] score of [X] falls in the [mild/moderate/severe] range, which means they could benefit from additional support.”
@@ -83,5 +83,6 @@ This protocol will be reviewed annually by the Pediatric Mental Health Team. Upd
 ---
 
 ## Version History
+- **2.1 (2025‑12‑30):** Updated parent communication language; added documentation note for safety assessment; minor editorial improvements.
 - **2.0 (2025‑12‑30):** Clarified positive‑screen workflow; added parent communication guide; updated referral list; added alternative screening tools; version numbering aligned with clinic standard.
 - **1.0 (2024‑01‑15):** Initial protocol adopted.
